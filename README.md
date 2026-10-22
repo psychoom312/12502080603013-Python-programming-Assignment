@@ -30,6 +30,9 @@ This repository contains a suite of **production-grade Python implementations** 
 ✨ Binary Pickling Indexes & Compressed Archiving Pipelines  
 ✨ High-Performance Event-Driven Thread Simulation Heaps  
 ✨ Multi-Widget Desktop GUI Architecture & JSON Local Storage Systems  
+✨ Regular Expressions & Web Scraping Automation Engines  
+✨ Relational Database Management & SQL Query Transformers  
+✨ Matrix Dynamic Programming & Operator Overloading Paradigms  
 
 ---
 
@@ -37,7 +40,9 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 1: Campus Merit Analyzer
+## 📂 Assignment 1: Core Paradigms
+
+### 🔹 Program 1: Campus Merit Analyzer
 📌 Grouped Sorting • Dynamic Multi-Key Tie Breaking  
 
 <p align="center">
@@ -46,7 +51,7 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 2: Optimized Password Auditor
+### 🔹 Program 2: Optimized Password Auditor
 📌 Trie Structures • Aho-Corasick Substring Automaton  
 
 <p align="center">
@@ -55,7 +60,7 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 3: Recursive Expression Engine
+### 🔹 Program 3: Recursive Expression Engine
 📌 Parsing Stacks • Cycle Detection • Result Memoization  
 
 <p align="center">
@@ -64,7 +69,7 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 4: Exception-Safe CSV Splitter
+### 🔹 Program 4: Exception-Safe CSV Splitter
 📌 File I/O Streaming • Runtime Token Data Validation  
 
 <p align="center">
@@ -73,7 +78,7 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 5: Object-Oriented Settlement Engine
+### 🔹 Program 5: Object-Oriented Settlement Engine
 📌 Encapsulation Modifiers • Batch Checkpoints • Transaction Rollbacks  
 
 <p align="center">
@@ -82,7 +87,7 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 6: Module Dependency Resolver
+### 🔹 Program 6: Module Dependency Resolver
 📌 Kahn's Topological Sorting • Min-Heap Scheduling • DFS Path Extraction  
 
 <p align="center">
@@ -91,7 +96,7 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 7: Interactive Formula Validator
+### 🔹 Program 7: Interactive Formula Validator
 📌 Token Parsing • Custom Application Exception Trees  
 
 <p align="center">
@@ -100,7 +105,7 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 8: Compressed Log Indexer
+### 🔹 Program 8: Compressed Log Indexer
 📌 Inverted Positional Mapping • Binary Pickling • Deflated Zip Archives  
 
 <p align="center">
@@ -109,7 +114,7 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 9: Threaded Job Scheduler Simulation
+### 🔹 Program 9: Threaded Job Scheduler Simulation
 📌 Event-Driven Timeline Loops • Priority Allocation Balanced Heaps  
 
 <p align="center">
@@ -118,11 +123,103 @@ This repository contains a suite of **production-grade Python implementations** 
 
 ---
 
-## 🔹 Program 10: Tkinter Tracker & File Persistence
+### 🔹 Program 10: Tkinter Tracker & File Persistence
 📌 Virtual Treeview Grid Rendering • Live Index Search Filters • JSON Storage  
 
 <p align="center">
   <img src="ASS-1/op10.png" width="650" alt="Tkinter Assignment Tracker Output">
+</p>
+
+---
+
+## 📂 Assignment 2: Advanced Integration & Data Automations
+
+### 🔹 Program 1: Regex-Based Email Intelligence Extractor
+📌 Text Pattern Parsing • Metacharacter Filters • Domain Analysis  
+
+<p align="center">
+  <img src="ASS-2/op1.png" width="650" alt="Regex-Based Email Intelligence Extractor Output">
+</p>
+
+---
+
+### 🔹 Program 2: Offline Web Scraping Ranker from HTML Pages
+📌 DOM Node Traversal • Element Filtering • Custom Metric Sorting  
+
+<p align="center">
+  <img src="ASS-2/op2.png" width="650" alt="Offline Web Scraping Ranker Output">
+</p>
+
+---
+
+### 🔹 Program 3: MySQL Student-Course Analytics Engine
+📌 Database Relational Models • Analytical Aggregations • Key Constraints  
+
+<p align="center">
+  <img src="ASS-2/op3.png" width="650" alt="MySQL Student-Course Analytics Engine Output">
+</p>
+
+---
+
+### 🔹 Program 4: SQL Join Query Builder and Validator
+📌 Dynamic Query Compilers • Syntax Safety Controls • Join Type Translators  
+
+<p align="center">
+  <img src="ASS-2/op4.png" width="650" alt="SQL Join Query Builder Output">
+</p>
+
+---
+
+### 🔹 Program 5: Tkinter Contact Manager with MySQL Backend
+📌 Stateful GUI Form Binding • RDBMS CRUD Controls • Event Binding  
+
+<p align="center">
+  <img src="ASS-2/op5.png" width="650" alt="Tkinter Contact Manager Output">
+</p>
+
+---
+
+### 🔹 Program 6: Log Anomaly Detector using Sliding Window
+📌 Stream Windows • Outlier Identification Thresholds • Dynamic State Trackers  
+
+<p align="center">
+  <img src="ASS-2/op6.png" width="650" alt="Log Anomaly Detector Output">
+</p>
+
+---
+
+### 🔹 Program 7: Generator-Based JSON ETL Pipeline
+📌 Memory-Efficient Yields • Lazy Transformation Streams • Large Scale Processing  
+
+<p align="center">
+  <img src="ASS-2/op7.png" width="650" alt="Generator-Based JSON ETL Pipeline Output">
+</p>
+
+---
+
+### 🔹 Program 8: Matrix Path Optimizer with Dynamic Programming
+📌 Optimal Substructure Overlaps • Grid State Memos • Path Tracing Matrices  
+
+<p align="center">
+  <img src="ASS-2/op8.png" width="650" alt="Matrix Path Optimizer Output">
+</p>
+
+---
+
+### 🔹 Program 9: OOP Inventory Merger with Operator Overloading
+📌 Dunder Method Injectors • Magic Polymorphism Overrides • In-Place Mutation Guards  
+
+<p align="center">
+  <img src="ASS-2/op9.png" width="650" alt="OOP Inventory Merger Output">
+</p>
+
+---
+
+### 🔹 Program 10: Python Data Visualization Dashboard Exporter
+📌 Statistical Chart Renderers • Multi-Axes Planners • Static File Importers  
+
+<p align="center">
+  <img src="ASS-2/op10.png" width="650" alt="Python Data Visualization Dashboard Exporter Output">
 </p>
 
 ---
@@ -132,26 +229,12 @@ This repository contains a suite of **production-grade Python implementations** 
 Python-Programming-Assignment/
 │
 ├── ASS-1/
-│   ├── p1.py
-│   ├── p2.py
-│   ├── p3.py
-│   ├── p4.py
-│   ├── p5.py
-│   ├── p6.py
-│   ├── p7.py
-│   ├── p8.py
-│   ├── p9.py
-│   ├── p10.py
-│   ├── op1.png
-│   ├── op2.png
-│   ├── op3.png
-│   ├── op4.png
-│   ├── op5.png
-│   ├── op6.png
-│   ├── op7.png
-│   ├── op8.png
-│   ├── op9.png
-│   └── op10.png
+│   ├── p1.py to p10.py
+│   └── op1.png to op10.png
+│
+├── ASS-2/
+│   ├── p1.py to p10.py
+│   └── op1.png to op10.png
 │
 └── README.md
 ```
